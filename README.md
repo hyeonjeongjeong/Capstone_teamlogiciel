@@ -3,9 +3,9 @@
 # FINDING FRIENDS ; MOBILE 2D GAME
 친구를 구하기 위해 모험을 떠나는 주인공 로지의 여정
 
-# TEAM name : TEAM LOGICIEL ; 강민서 김혜원 이의재 노스 정현정
-# project execution period : 2020 .03.02 - 2020 .06.19
-# 지도교수 : 최동수 교수님
+TEAM name : TEAM LOGICIEL ; 강민서 김혜원 이의재 노스 정현정
+project execution period : 2020 .03.02 - 2020 .06.19
+지도교수 : 최동수 교수님
 
 
 # INTRODUCE ABOUT GAME 
